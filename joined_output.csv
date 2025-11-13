@@ -1,0 +1,19 @@
+customer_name,email,order_id,order_date,amount,payment_method
+Lauren Foley,ulee@example.net,91,2025-11-12,750.51,Credit Card
+Melinda Wolf,randallswanson@example.net,50,2025-11-11,867.45,Cash on Delivery
+Mario Parker,tony44@example.org,95,2025-11-11,965.22,Credit Card
+Cynthia Thompson,parsonsmaria@example.net,81,2025-11-04,851.45,Cash on Delivery
+Jose Jones,vchen@example.net,52,2025-10-30,610.89,Credit Card
+Caitlin Cross,dianagarcia@example.org,22,2025-10-15,581.54,Credit Card
+Lindsay Morgan,daniellevasquez@example.org,23,2025-10-13,433.45,Cash on Delivery
+Zachary Garcia,wthompson@example.net,30,2025-10-06,401.41,Credit Card
+Xavier Wood,jasonlong@example.com,24,2025-09-20,54.08,Credit Card
+Michael Pope,xbowman@example.com,9,2025-06-30,946.38,PayPal
+Joe Anderson,juareztroy@example.org,11,2025-06-18,219.03,Credit Card
+Jessica Brewer,jerry17@example.com,45,2025-04-30,856.31,Cash on Delivery
+Donna Scott,alexandra54@example.net,97,2025-04-21,390.63,Credit Card
+Stephen Rogers,melissa84@example.net,71,2025-04-06,293.02,PayPal
+Michelle Cohen,lindsey62@example.net,89,2025-03-02,590.87,Cash on Delivery
+Christopher Moss,pittmankimberly@example.org,75,2025-01-29,249.3,Credit Card
+Julia Barrera,jill22@example.net,41,2025-01-28,657.53,Cash on Delivery
+Melissa Grant,brownmelissa@example.net,100,2025-01-01,687.57,Credit Card

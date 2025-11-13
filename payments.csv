@@ -1,0 +1,101 @@
+payment_id,order_id,payment_method,amount
+1,1,PayPal,691.87
+2,2,Cash on Delivery,555.23
+3,3,Cash on Delivery,188.2
+4,4,Credit Card,513.35
+5,5,Credit Card,919.69
+6,6,PayPal,785.81
+7,7,Cash on Delivery,297.81
+8,8,Cash on Delivery,687.46
+9,9,PayPal,946.38
+10,10,PayPal,404.07
+11,11,Credit Card,219.03
+12,12,Credit Card,467.41
+13,13,Cash on Delivery,230.25
+14,14,Cash on Delivery,908.49
+15,15,Credit Card,878.73
+16,16,PayPal,511.93
+17,17,PayPal,455.57
+18,18,Credit Card,111.1
+19,19,Credit Card,906.96
+20,20,Credit Card,336.04
+21,21,Cash on Delivery,491.61
+22,22,Credit Card,581.54
+23,23,Cash on Delivery,433.45
+24,24,Credit Card,54.08
+25,25,Cash on Delivery,105.78
+26,26,Credit Card,152.13
+27,27,Cash on Delivery,572.07
+28,28,Credit Card,208.11
+29,29,PayPal,70.23
+30,30,Credit Card,401.41
+31,31,PayPal,684.04
+32,32,Credit Card,925.21
+33,33,PayPal,754.41
+34,34,PayPal,974.96
+35,35,Cash on Delivery,856.76
+36,36,Cash on Delivery,323.06
+37,37,Cash on Delivery,734.98
+38,38,Credit Card,523.87
+39,39,PayPal,220.29
+40,40,Credit Card,835.59
+41,41,Cash on Delivery,657.53
+42,42,Credit Card,734.12
+43,43,Cash on Delivery,564.45
+44,44,Credit Card,889.65
+45,45,Cash on Delivery,856.31
+46,46,PayPal,299.93
+47,47,PayPal,519.65
+48,48,Credit Card,282.25
+49,49,Cash on Delivery,759.42
+50,50,Cash on Delivery,867.45
+51,51,PayPal,784.21
+52,52,Credit Card,610.89
+53,53,PayPal,855.4
+54,54,Credit Card,228.7
+55,55,Cash on Delivery,783.03
+56,56,PayPal,476.52
+57,57,Cash on Delivery,614.27
+58,58,Cash on Delivery,563.88
+59,59,Cash on Delivery,580.05
+60,60,PayPal,740.75
+61,61,Credit Card,53.9
+62,62,Cash on Delivery,496.02
+63,63,Cash on Delivery,662.29
+64,64,PayPal,279.94
+65,65,Credit Card,699.81
+66,66,PayPal,997.21
+67,67,PayPal,562.67
+68,68,Credit Card,636.1
+69,69,PayPal,458.75
+70,70,Cash on Delivery,218.56
+71,71,PayPal,293.02
+72,72,Credit Card,762.54
+73,73,Credit Card,922.76
+74,74,PayPal,772.95
+75,75,Credit Card,249.3
+76,76,PayPal,692.07
+77,77,Cash on Delivery,113.51
+78,78,Credit Card,404.96
+79,79,PayPal,882.08
+80,80,Cash on Delivery,658.3
+81,81,Cash on Delivery,851.45
+82,82,Credit Card,76.8
+83,83,PayPal,609.4
+84,84,Credit Card,24.97
+85,85,Credit Card,49.06
+86,86,Credit Card,75.28
+87,87,Cash on Delivery,942.29
+88,88,PayPal,288.21
+89,89,Cash on Delivery,590.87
+90,90,PayPal,639.36
+91,91,Credit Card,750.51
+92,92,Cash on Delivery,51.77
+93,93,PayPal,480.25
+94,94,PayPal,562.01
+95,95,Credit Card,965.22
+96,96,PayPal,124.97
+97,97,Credit Card,390.63
+98,98,Cash on Delivery,833.58
+99,99,PayPal,34.64
+100,100,Credit Card,687.57
